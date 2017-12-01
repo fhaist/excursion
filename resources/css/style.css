@@ -2,10 +2,33 @@ html {
   background-color: black;
 }
 
-#headline {
-  font-family: Verdana, san-serif;
-  font-weight: normal;
-  font-size: 50px;
+body {
   text-align: center;
   color: white;
+  font-family: Verdana, sans-serif;
+}
+
+#headline {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.download_link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#features {
+	color: gray;
+	font-size: 21px;
+}
+
+.promo_copy {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+#copyright {
+	text-align: right;
+	color: gray;
 }
