@@ -1,0 +1,11 @@
+html {
+  background-color: black;
+}
+
+#headline {
+  font-family: Verdana, san-serif;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
